@@ -33,4 +33,4 @@ If running from source, you'll need:
 
 ## License
 
-[MIT License]
+[MIT License](https://github.com/pedicino/Kompaktor/blob/main/LICENSE)
