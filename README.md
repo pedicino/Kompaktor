@@ -2,6 +2,12 @@
 
 Kompaktor is a lightweight desktop utility that compresses images, videos, and PDFs with customizable quality settings to save disk space.
 
+---
+
+![Kompaktor GUI](kompaktor_screenshot.png)
+
+---
+
 ## Installation
 
 You can install Kompaktor in two ways:
