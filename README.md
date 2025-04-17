@@ -33,10 +33,6 @@ If running from source, you'll need:
 - FFmpeg (for video compression)
 - Ghostscript (for PDF compression)
 
-## Screenshots
-
-*[Add screenshot here]*
-
 ## License
 
 [MIT License](https://github.com/pedicino/Kompaktor/blob/main/LICENSE)
